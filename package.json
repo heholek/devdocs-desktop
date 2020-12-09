@@ -34,7 +34,7 @@
   "homepage": "https://github.com/egoist/devdocs-desktop#readme",
   "devDependencies": {
     "devtron": "^1.4.0",
-    "electron": "^1.7.9",
+    "electron": "^7.2.4",
     "electron-builder": "^19.37.2",
     "electron-devtools-installer": "^2.2.1",
     "eslint-config-rem": "^3.2.0",
